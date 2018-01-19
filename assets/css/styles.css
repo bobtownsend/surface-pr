@@ -1,0 +1,15 @@
+p {
+  margin:0 0 10px;
+  font-size:18px;
+}
+
+.copyright {
+  text-align:center;
+  font-size:larger;
+}
+
+.author {
+  text-align:center;
+  font-size:medium;
+}
+
